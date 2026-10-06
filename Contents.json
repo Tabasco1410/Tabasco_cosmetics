@@ -916,7 +916,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "9bef457c75f4fee8d659485645c3c2c6",
+				"Hash" : "fb60a627765861726427ec9764037ef5",
 				"Address" : "New_SpaceHelmet_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -936,7 +936,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b27fef65340306da228878ba9b4de7a8",
+				"Hash" : "4f440ca5a93a7174bd37a31fafbfc5e0",
 				"Address" : "New_HoloRing_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -956,7 +956,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "a242ffacb48c4aaaece50e8a84a52a65",
+				"Hash" : "7f81e15638892b56796e76b746c92c7a",
 				"Address" : "New_Communicator_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -976,7 +976,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "189c62a5e1bac7b62f15797be2073006",
+				"Hash" : "9c7331cfdad2225bb73188485efbb274",
 				"Address" : "New_SpikeCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -996,7 +996,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "c2e1e85311dfe2ee4b2e89cb9e75a97a",
+				"Hash" : "4d418c7cb64a5e04e44199116aa83ad0",
 				"Address" : "New_PropellerCap_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1016,7 +1016,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "4132ecb71ebf8e45ce3fe47be2c73a0e",
+				"Hash" : "4c951cf9ab751556123818227bff261d",
 				"Address" : "New_Bandana_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1036,7 +1036,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "02f10fa97c0d0f390035d078b54856a5",
+				"Hash" : "439a9a683b31b6afe2603c04d01d1e4c",
 				"Address" : "New_SunVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1056,7 +1056,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e2582dda167ea00ce59e53798dbe3ed0",
+				"Hash" : "7900def6f529a0b4c2dde1897c873bea",
 				"Address" : "New_WizardStar_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1076,7 +1076,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "34da564a56cfe9f2b835a981975baa9d",
+				"Hash" : "807930a61d2abac01ba1eb821e8e6932",
 				"Address" : "New_WingHelm_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1096,7 +1096,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "282960ae2dd0ef35a1078749aa0c5c1a",
+				"Hash" : "63f37bcb68ee4ecdb38b5b1679c7513e",
 				"Address" : "New_Snorkel_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1116,7 +1116,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "5be868e20980fcba13d3a572fc042357",
+				"Hash" : "4e0630c26a982f21c89759ddb4372f06",
 				"Address" : "New_KnitEarmuff_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1136,7 +1136,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "6843d91c017ae8b71fbab1ce89b47508",
+				"Hash" : "de8917b5ebe98da58eb561123307a824",
 				"Address" : "New_AntennaHeadband_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1156,7 +1156,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e1f2c769a780149eacd25585b1ae6ef9",
+				"Hash" : "4f1a13ece721028496b0f75efed00259",
 				"Address" : "New_LeafCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1176,7 +1176,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "40a8083f70dfea384db35745d433f63e",
+				"Hash" : "987632059ebe9810c001322a444027d2",
 				"Address" : "New_Fedora_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1196,7 +1196,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "bec178333dec361a276d465948e5b5a1",
+				"Hash" : "d00445d09457ddfc6221e436270cd7bf",
 				"Address" : "New_SpikeChoker_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1216,7 +1216,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "8e6fcba65526e80502769926291e0696",
+				"Hash" : "628bc8e8c2f1ebcbb6a723a66544ce53",
 				"Address" : "New_PaperBagMask_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1236,7 +1236,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "82977f01e9b16d3bf497a8cc8662c7fd",
+				"Hash" : "0d0c98181c4ac80809300a79c03b3062",
 				"Address" : "New_SpringStar_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1256,7 +1256,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "559bdfede9c11a8588ee9acd7310b952",
+				"Hash" : "7ccfd46ab13d1f026de26b9f2879fe26",
 				"Address" : "New_LightBulb_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1276,7 +1276,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "6a6ac5c2849515d22ebe80f6302a61ac",
+				"Hash" : "3951cc2e3f4861a9315f0f56b534783a",
 				"Address" : "New_Muffler_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1296,7 +1296,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "bb311f282b0c14b2b6c2945cc9bbf5c0",
+				"Hash" : "2242361a3b45ecaa922dafb90c354554",
 				"Address" : "New_PumpkinHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1316,7 +1316,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "fcdeec7d3cecb11cc10a7fe557d13265",
+				"Hash" : "dd036bfaa5094525923579169921524d",
 				"Address" : "New_SantaHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1336,7 +1336,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "033b3a3ce0cbdce6a2d1276e1222393a",
+				"Hash" : "16a1c224fe4f76d9e7b179c798e4289e",
 				"Address" : "New_MilitaryCap_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1356,7 +1356,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "d433e10b9b48fcaed837937edfbecbf2",
+				"Hash" : "99bd67d5514afb2759e03995d9ce3806",
 				"Address" : "New_GraduationCap_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1376,7 +1376,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7948e785dd693fbe39b5f9b418303429",
+				"Hash" : "f8472bab93b3fb1f14199e2c6a9d76b7",
 				"Address" : "New_ChinaHair_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1396,7 +1396,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "1bc0a2b7a306983256b3e9b85903cdcf",
+				"Hash" : "33606b9d718c4683a69f929d2976707b",
 				"Address" : "New_CandleHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1416,7 +1416,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "bfba43854fde19547062a6c554b46a92",
+				"Hash" : "66d12d6de02fef1adb0106da4e4288ca",
 				"Address" : "New_Cap_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1436,7 +1436,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "a62dffc8c45afa7f51ad3bc886ab6f22",
+				"Hash" : "dc55033e29f2b5d0bd2ca2791d86f563",
 				"Address" : "New_LaurelCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1456,7 +1456,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "630baeac04f4da49c416a4fb6674520c",
+				"Hash" : "8a2b6b55f87b7a3161eda4783bd68a13",
 				"Address" : "New_ColorCone_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1476,7 +1476,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "345a2bf22834ce83b43d1d04e1d2532b",
+				"Hash" : "9ebb76ed162eddc3d1fcb94930bb6265",
 				"Address" : "New_FlowerCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1496,7 +1496,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "de08de04c55904eb9930b1d7a71c0c0c",
+				"Hash" : "d868b1275730658625173a477a7da444",
 				"Address" : "New_DolphinHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1516,7 +1516,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e178ded96ace49173b5cc54d2de3abbc",
+				"Hash" : "b7b259c7ca3c683ba9577c9453202ef2",
 				"Address" : "New_Birdcage_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1536,7 +1536,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7c33103b342ea887d8d06fafda2d705f",
+				"Hash" : "fc489020c41c3aa70107582e9a018367",
 				"Address" : "New_ScientistGoggles_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1556,7 +1556,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "3a007d22e9c25bcf2c3e61c6d181b488",
+				"Hash" : "40646f457c9988f41d60cfb75f0f918a",
 				"Address" : "New_KnightHelm_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1576,7 +1576,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "f65ee0a9ee9b695ab190cf75879905af",
+				"Hash" : "e8c85bb313cad6de51120e02ff65558c",
 				"Address" : "New_JesterHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1596,7 +1596,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "ba166bfc39dadd91b5e0979d310a91c3",
+				"Hash" : "9565e9870322cb2cc21affbd1a3f17d7",
 				"Address" : "New_FriedEggHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1616,7 +1616,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "35b28b4d9347031cd91d7359db95bf71",
+				"Hash" : "4648b183602b369525fe8ccb9590a7ae",
 				"Address" : "New_SushiHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1636,7 +1636,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b5c3cc077daa6fbcf93c87f2a78cb173",
+				"Hash" : "3aaab2502788c6d289034755b6dadb79",
 				"Address" : "New_BookHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1656,7 +1656,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "194c6c8e3b8f3cbe475c3dde6d6e1960",
+				"Hash" : "4d24f485f6ab2d1cd9064699d230105b",
 				"Address" : "New_GearCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1676,7 +1676,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "776cd85242906c6e59f9774722718e3b",
+				"Hash" : "cffe22f730cb0fa0566d973e509b4832",
 				"Address" : "New_HeartAntenna_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1696,7 +1696,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "382c2738d49566dfa68268ef052283cf",
+				"Hash" : "671fe486877bbd6f0f00a5a2aa8ff198",
 				"Address" : "New_FishHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1716,7 +1716,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "c073a67d6d82f97d640494d88b6b14e6",
+				"Hash" : "999fbc8f90e4ce16a02bbcdbc4164ed6",
 				"Address" : "New_BarrelHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1736,7 +1736,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "f0d1a3f39ea1c8b6135d1b8e0012e9e5",
+				"Hash" : "5d3c109101244a8d57074bf99c229513",
 				"Address" : "New_CactusHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1756,7 +1756,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "104e909086c0afa9e1a97e49370a556e",
+				"Hash" : "d028164cf440a895e099c9992abd977e",
 				"Address" : "New_FortuneTellerHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1776,7 +1776,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "c3fc3a6cc4b81f91eace25989b87c0b2",
+				"Hash" : "816f6325f9395047d256546b4d6b9f18",
 				"Address" : "New_MushroomHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1796,7 +1796,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "3712e7a6e2116083936ecdda4afa773e",
+				"Hash" : "1383771c483e9d8cfca96219c240a5de",
 				"Address" : "New_CrystalCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1816,7 +1816,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "4b984d70acee9a7d53994c3c3e8af4d8",
+				"Hash" : "3385a43f9796b25b20d4ef71571fdc30",
 				"Address" : "New_RobotHead2_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1836,7 +1836,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "089ff81031c98ead031eaacdcda84c43",
+				"Hash" : "88ace25f8d7617c6c6ba9b3d641b479e",
 				"Address" : "New_FeatherCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1856,7 +1856,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "0a37f24dced6769d86861e910a75817e",
+				"Hash" : "ea945a1ffdf38831a2c87b2fe86e9320",
 				"Address" : "New_SharkFin_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1876,7 +1876,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b031e3a6a952971445c2c537067aa9b0",
+				"Hash" : "1b9d56fc806568814da990b90070a814",
 				"Address" : "New_ShellHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1896,7 +1896,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7114b61db535deac2cfc358a7ec14f65",
+				"Hash" : "1b0c8140aeccba774836a8936124711d",
 				"Address" : "New_CloudHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1916,7 +1916,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "27f40e40f324adae24bee1ada1896191",
+				"Hash" : "12b4e18dfdfef0a789f2209662e9a414",
 				"Address" : "New_FireCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1936,7 +1936,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e639fd1507cbfdbf1b57eaa03a5d0bdb",
+				"Hash" : "432915d7a18698b9cb4dd655ad7259ec",
 				"Address" : "New_MagnifierHeadband_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1956,7 +1956,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "c476bcb42af67fd3cc5815b6c515984c",
+				"Hash" : "1af87d5dc55cb32e25839ec25407f312",
 				"Address" : "New_WitchHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1976,7 +1976,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b3a72ea3945dc66d9114a5dba46928aa",
+				"Hash" : "7af4e8ae3024acf2198838c889e6bbda",
 				"Address" : "New_PixelCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -1996,7 +1996,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "248aa660e5dc8697e6a4bcb537ad4df5",
+				"Hash" : "f08f150a3fbea0fde118aea58ec07624",
 				"Address" : "New_UmbrellaHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2016,7 +2016,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7d65193052f2a544f098be87778c337a",
+				"Hash" : "868b62ad1b6fd0d4248faeb4e653fb10",
 				"Address" : "New_BucketHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2036,7 +2036,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "37efeae8692a30103781f55b74310916",
+				"Hash" : "a43ca5c0eabe8dc159e33428f1936d92",
 				"Address" : "New_PaintBucket_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2056,7 +2056,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7c34e3c3ad965a4ccbc05e3e8ccb0f50",
+				"Hash" : "0d10d76820ac7a51e763c5cc3cce9e38",
 				"Address" : "New_Headphones_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2076,7 +2076,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "cbbd553f09b76ca08445cf2dc6d2ebdd",
+				"Hash" : "e48d0c10ffc28d696555f18a0dd1fa59",
 				"Address" : "New_ThornCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2096,7 +2096,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "f9d9ed8c471f8747a4d738c3325e24c8",
+				"Hash" : "95607b4800e59e6f76b65934dbe38413",
 				"Address" : "New_GasMask_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2116,7 +2116,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "261ccd422787da32edc93628f32dd790",
+				"Hash" : "030f87b699b2c65d1425dca22ecdd15b",
 				"Address" : "New_SnowmanHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2136,7 +2136,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "6ba3cc4181e48e26457f541206e7d571",
+				"Hash" : "f3dbdbfc052d235b746aacbe16b55675",
 				"Address" : "New_ReindeerAntlers_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2156,7 +2156,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "a902c47be4b1a1ef5adc7ca9a3f2b9ab",
+				"Hash" : "2c20e5a0cc91b7c73e3458206be9a706",
 				"Address" : "New_GoldWingHelm_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2176,7 +2176,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "059addaa6a7c8b244d31a060d4bd770c",
+				"Hash" : "6a43569f5930d76b5894bd7dc922613f",
 				"Address" : "New_HeartBalloon_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2196,7 +2196,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "ef6545a4f3ed932319d07cfb5007412a",
+				"Hash" : "bf5d171aece8c78e10eb82fe24fbab74",
 				"Address" : "New_DivingHelmet_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2216,7 +2216,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "812b1be754e2ef76bf975a09d657e2ea",
+				"Hash" : "235a153c6aa22a8195e0955cc48fc341",
 				"Address" : "New_PirateHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2236,7 +2236,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "8c66379d557e694955c93df19e8d98ea",
+				"Hash" : "8bf2f0656fbe8c39122ca3ce22e42605",
 				"Address" : "New_AngelHaloWings_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2256,7 +2256,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "961a3fa4ade042999f0aee1e8c2762c0",
+				"Hash" : "095c822b213c634871a1e168ccd2bbc4",
 				"Address" : "New_WitchBroom_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2276,7 +2276,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "455e6a0886313910ee6d3e27a7325752",
+				"Hash" : "b6d1655b17c21ba9b5e2e9c7e92026ea",
 				"Address" : "New_CogWheel_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2296,7 +2296,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "77885ed5a8eef61dfa050cc0c3a45f0a",
+				"Hash" : "3af1537d70614aad69436d5ac5bbe514",
 				"Address" : "New_ClownHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2316,7 +2316,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b24ba1381745df617bc993d0317ff723",
+				"Hash" : "a7fd2bd258c5c6b6919dbd0a8e5e4da9",
 				"Address" : "New_FutureHelmet_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2336,7 +2336,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b8a0d7cb2810a973f70b8eaeac981408",
+				"Hash" : "27b62dea564fdd0d8c257e4f9d4c884e",
 				"Address" : "New_CatEarHeadphones2_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2356,7 +2356,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "76303c8fb80ac54a90203f733a0988f3",
+				"Hash" : "ab32304106e7c416a37bc7a11f833afb",
 				"Address" : "New_FlameKingCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2376,7 +2376,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7599fda1d25d31ff7ab317f622231c7b",
+				"Hash" : "9e3ac9a19c78ce42f45de7d73afcc441",
 				"Address" : "New_SnowflakeCrown_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2396,7 +2396,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "3e36ed98a08b79d74e1a3b145f060e33",
+				"Hash" : "c62caefadb224f9d2f1fd77859070b83",
 				"Address" : "New_UFOCap_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2416,7 +2416,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "fbbd3ff9aeb3b26908958791c715f3a2",
+				"Hash" : "07048f03cf634be51b640346f23ae2a6",
 				"Address" : "New_BunnyEarsHeadband_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2436,7 +2436,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "f786e36e0f956e488e143085b5ad47f1",
+				"Hash" : "bc6bf33044a60906944a3d3fa6541f8e",
 				"Address" : "New_MechaWings_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2456,7 +2456,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "38ea536faf935acdc3ec10c84f2a561f",
+				"Hash" : "9f3fd16aa7098e572569263b016c8979",
 				"Address" : "New_SnakeHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2476,7 +2476,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "756e4d0c92c775cc13b97852da496017",
+				"Hash" : "e785ea2e2b49db882f6850555535a0fb",
 				"Address" : "New_CherryHat_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2496,7 +2496,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b92842d28f29ef1c72758d491a7b0ac0",
+				"Hash" : "90c8a73912981740489d0a7c23902b82",
 				"Address" : "New_DiscoBall_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2921,7 +2921,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "cdf12f1a3a944e77d41a2febde9e24f5",
+				"Hash" : "faad586e0205d23ebcc6c25b3acdfde8",
 				"Address" : "New_SlashVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2939,7 +2939,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "65dd7660813563404e1dc59ca26280f3",
+				"Hash" : "81b3eb19ecb1fd94596ab53f77159994",
 				"Address" : "New_LaserVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2957,7 +2957,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b6dbca8f610487dce6b4d9f3ddb93ec0",
+				"Hash" : "7e88df37dcf7e8a216bd0e78f649826a",
 				"Address" : "New_FireVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2975,7 +2975,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "c05f6bfc810115cf5991b49390e2427c",
+				"Hash" : "97de44da15603288a3d28a11b93a4893",
 				"Address" : "New_ScopeVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -2993,7 +2993,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7c78d704cc7fbd2fa5ec96242edb00e2",
+				"Hash" : "432c6e37c98e4bc1c78265abde9f1bfe",
 				"Address" : "New_CrashVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3011,7 +3011,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "0198600191c00d8a029bfaaa7c537021",
+				"Hash" : "3f5874c22594c671e3e0bacdc3f34b35",
 				"Address" : "New_MonsterVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3029,7 +3029,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "336baaef891ca42fa067b97ec1cb51b7",
+				"Hash" : "7f6c3309f3640d77d1bd161396547b42",
 				"Address" : "New_PsychoVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3047,7 +3047,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b5a8fdd0c3c46a5986f64451be710c09",
+				"Hash" : "3ec19fb529836c3c1974caf4e34c1e0d",
 				"Address" : "New_DragonVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3065,7 +3065,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "47b7b063c510688cd7ec5ff5fea949ca",
+				"Hash" : "569a81c5bf669d13d32c852df641d52d",
 				"Address" : "New_DotVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3083,7 +3083,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "9ea5741bc3f97543271f07e0cadc9d93",
+				"Hash" : "ab13403fac523b88f3de4c9ff1770309",
 				"Address" : "New_BlindVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3101,7 +3101,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b355349eafe23c5e751ec52466bc8f8d",
+				"Hash" : "c69fd0b10a7f81e7fff27f1ce0921a22",
 				"Address" : "New_AlertVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3119,7 +3119,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "da025d20047657f174d1d8471666bcec",
+				"Hash" : "5d316ee3d7eb529c8d0bb0e79564b6a0",
 				"Address" : "New_StarlightVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3137,7 +3137,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "444778532466a5ae0cd646a8ffd70726",
+				"Hash" : "70f8b95c3a4baa516e8b4a13515a0148",
 				"Address" : "New_HeartVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3155,7 +3155,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "2dec2dd6ff863834b5222f17f8975594",
+				"Hash" : "10d23fbca6908b09a45a01b89c899d05",
 				"Address" : "New_RadarVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3173,7 +3173,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "5d0f726a961e3a64ec769f531e4d9832",
+				"Hash" : "056dc656f1e3086c0892ea6e7f9bbbaf",
 				"Address" : "New_SlimeVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3191,7 +3191,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "f6477b2582486a8088297e6c4c027727",
+				"Hash" : "60d4bc25794807dae7960e1c9a48c26b",
 				"Address" : "New_SkeletonVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3209,7 +3209,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "63fbc717f0c2762df499a8d1ae6a104a",
+				"Hash" : "0126b304f81bc2ce8e12027ce4d149a5",
 				"Address" : "New_LightningVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3227,7 +3227,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "8f6f9b93337e791cdf1439de2354bdaf",
+				"Hash" : "7d93a36084eb248519381184a281c6b6",
 				"Address" : "New_PixelEyeVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3245,7 +3245,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e5aef14584b678ba5ce0440113c31aee",
+				"Hash" : "663388baaf3e2053514733d874796bd1",
 				"Address" : "New_CyclopsVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3263,7 +3263,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "f1ed605bc2cfffec35b422e9ac46bbd9",
+				"Hash" : "eeda5edb1a2c4311fed958cc4b4b237d",
 				"Address" : "New_BandageVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3281,7 +3281,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "ed66077066725d868c8cb9ec55b0e126",
+				"Hash" : "6b0ae2f3912efde025511ca2129498a4",
 				"Address" : "New_MirrorVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3299,7 +3299,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "2776ca46f76acd585c28e2cdc298977e",
+				"Hash" : "408050cae842959b2696a5322b034d9a",
 				"Address" : "New_BubbleVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3317,7 +3317,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "13ab0b803fdfcc4b0da74e37398caa8b",
+				"Hash" : "6708744d8d8d9b8e7710f861a9fd7572",
 				"Address" : "New_CrackVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3335,7 +3335,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e7ce1dcb7dc921ebbfcdf6bd0a2002d1",
+				"Hash" : "e88622a78e8da95971bbf02a1a207f73",
 				"Address" : "New_HoneycombVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3353,7 +3353,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "15f7723fe7145f3f64a5e48b95eabc4e",
+				"Hash" : "9c41413a80fc1ef35803c86c7a5faf5b",
 				"Address" : "New_MonoEyeVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3371,7 +3371,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "d2131f7d2cad73867086c9eaf4c85a2d",
+				"Hash" : "d0722869781ac65e0ba1cd3c7a892f11",
 				"Address" : "New_WingVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3389,7 +3389,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "9bd49a9cfcac987f6ca039d518c8de06",
+				"Hash" : "16b191b0d3b2fb59806ac6b526cc6660",
 				"Address" : "New_SnowVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3407,7 +3407,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "da430c8b97824ce5ff720ccd6ee7bebc",
+				"Hash" : "1e2d3b944da486d9204091ac25011fe2",
 				"Address" : "New_EnergyVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3425,7 +3425,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "5d94319db701311fe5cfaee0d072dc20",
+				"Hash" : "04eda6fe016e982546131d00c403166b",
 				"Address" : "New_ZipperVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
@@ -3443,7 +3443,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "449fa5807f972854236f40e97775d7ea",
+				"Hash" : "be9624594ff98703eb6e5dc9685c988a",
 				"Address" : "New_BoneVisor_Main.png",
 				"ExIsFront" : False,
 				"AnimSync" : 0
