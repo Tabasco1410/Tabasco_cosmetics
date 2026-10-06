@@ -429,26 +429,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "f12c2f0970cc26a141e90669c69cef86",
-				"Address" : "Sushi_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "おすし",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "7b9548629c19b58b0f682fc155acc433",
 				"Address" : "Toaster_Main.png",
 				"ExIsFront" : False,
@@ -527,26 +507,6 @@
 			"FPS" : 1,
 			"IsLocalizable" : True
 		}
-,
-		{
-			"Main" : {
-				"Hash" : "8474b96baf9d4a4606cc04ecf7ccf18c",
-				"Address" : "Sushi2_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "寿司",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
 		{
 			"Main" : {
 				"Hash" : "57d663d1bce2c388b23f4364deeaf9ba",
@@ -890,25 +850,6 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "コーヒーカップ",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "b2c1f63f4fd3a63505f26955e88d935d",
-				"Address" : "AlienHelmet_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "宇宙人のヘルメット",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
@@ -1608,26 +1549,6 @@
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "目玉焼きハット",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "4648b183602b369525fe8ccb9590a7ae",
-				"Address" : "New_SushiHat_Main.png",
-				"ExIsFront" : False,
-				"AnimSync" : 0
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "寿司ハット",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
