@@ -6,43 +6,25 @@
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
 				"Address" : "Sleepy_Main.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"Climb" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
 				"Address" : "Sleepy_Climb.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ねむい\.\.\.",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "de869d7bd67bc3190f117395b5059f74",
-				"Address" : "NoKill_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "殺さないで",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
@@ -50,18 +32,19 @@
 				"Hash" : "92a61616082896741277df435eb80840",
 				"Address" : "Noparking_Main.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "止まるな！",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -69,18 +52,19 @@
 				"Hash" : "6d9db1568b63416e0a8c3943a219cd61",
 				"Address" : "Umbrella_Main.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ビニール傘",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -88,56 +72,19 @@
 				"Hash" : "fe37f168db5fde7ba9e6132a89388229",
 				"Address" : "40km_Main.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "時速40km/h",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "28f585c43497d201917bab6a601f3195",
-				"Address" : "Across_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "わたるよ!",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "b4afae97655c370594e2bd615337c92e",
-				"Address" : "NoCrew_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "だめー",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
@@ -145,15 +92,817 @@
 				"Hash" : "fad6dd4718ab8bad4bd3ecefc2b214e2",
 				"Address" : "Go_Main.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "一方通行",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a0715c4f268ca1b1d4619038e3500406",
+				"Address" : "Alien_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "宇宙人",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2706fed9d6a9ccb460a01d362682411c",
+				"Address" : "CatHeadphones_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ネコミミヘッドホン",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9eae209739202f3e24e5979272e592be",
+				"Address" : "ChiliCrown_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "唐辛子の王冠",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2a99ac241b3ff3e483b441b1d968344d",
+				"Address" : "ChiliUFO_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "唐辛子UFO",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "120a09bd7a87b0c82ffc66255eed01ca",
+				"Address" : "CowboyHat_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "カウボーイハット",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0a4f26c441b45d88c421da156a078c07",
+				"Address" : "Crown_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "王冠",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "859ad110c585c1c893b973ead9105f8b",
+				"Address" : "Drone_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ドローン",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0468365edb16f182df1d2fec8afb86e7",
+				"Address" : "FriedEgg_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "目玉焼き",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f53e6e691fabaf60c60faf6d3c352f36",
+				"Address" : "HaloRing_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "光の輪",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ba02d2efa880e268f2a68ae0701a82e3",
+				"Address" : "HotSauce_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ホットソース",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f20155184282fefa77c61f231b61a9fd",
+				"Address" : "Microwave_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "電子レンジ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "096883ee8a886367ef788ccdf347736f",
+				"Address" : "RedBeanie_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "赤いニット帽",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8e7d6d03801292c0e3f5762ff0b7f40d",
+				"Address" : "Satellite_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "人工衛星",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "75836cdb5dbc5760696fc961129dd697",
+				"Address" : "SauceSplash_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ソースぶしゃー",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a2f1e91139b5125926cf4fe7c5a2ff31",
+				"Address" : "SpaceHelmet_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "宇宙ヘルメット",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "bb0b4194cadfa9ec5a718a592c83061b",
+				"Address" : "Sprout_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "芽が出た",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f12c2f0970cc26a141e90669c69cef86",
+				"Address" : "Sushi_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "おすし",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7b9548629c19b58b0f682fc155acc433",
+				"Address" : "Toaster_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "トースター",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c875aca1e7ed85f9e5dcf68113890911",
+				"Address" : "TrafficCone_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "三角コーン",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "285a8cc2c90e6cf2b1c93355b958f9ea",
+				"Address" : "VRGoggles_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "VRゴーグル",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5f2b294f49b1a2f326ab1782f4cf3df3",
+				"Address" : "ChiliPepper_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "唐辛子",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+,
+		{
+			"Main" : {
+				"Hash" : "8474b96baf9d4a4606cc04ecf7ccf18c",
+				"Address" : "Sushi2_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "寿司",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "57d663d1bce2c388b23f4364deeaf9ba",
+				"Address" : "CatFace_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ネコ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5b96a697f433ee128d4406c20c1e1780",
+				"Address" : "SnowGoggles_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "スノーゴーグル",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2fd0076ff54a3834e8e429622f3ad9a1",
+				"Address" : "HoverRing_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ホバリングリング",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f66f1343e2db04a75c9358158e016c00",
+				"Address" : "FlameCrown_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "フレイムクラウン",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "eb370e32e37d19eb765381674de4c3a0",
+				"Address" : "Plant_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "鉢植え",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9da2fab838f3195fa753e62c4c8f3e57",
+				"Address" : "JetPack_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ジェットパック",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d280da7898d65725fc4f553a1c6c0d1c",
+				"Address" : "Fish_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "魚",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d03756b6b7ba4179c9bafc0963a70a9a",
+				"Address" : "WizardHat_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "魔法使いの帽子",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0b2bf0c7ef0dc22a25f0caff61ee2e42",
+				"Address" : "ChefHat_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "シェフの帽子",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4cc9797f9855dab6adfb2f44cab08a58",
+				"Address" : "BananaPeel_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バナナの皮",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1d07ca8f57025b55ba6c9fc80294425e",
+				"Address" : "PartyHat_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "パーティーハット",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e91b5b1e007a09e55132d31bc8bf6f8e",
+				"Address" : "UFO_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "UFO",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "dfac97a6598cc98e00b0a8400036e3ab",
+				"Address" : "Snowman_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "雪だるま",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "00544c828eae46361d280c0d743b535c",
+				"Address" : "Crown2_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "赤い王冠",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c7e72f3159747097dc5dd120e95b98b7",
+				"Address" : "Pizza_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ピザ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ae94568ed7db3591c9d837f23dfcb645",
+				"Address" : "AngelHalo_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "天使の輪",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f647104c17772ab113d9ab2e31eee6b2",
+				"Address" : "RobotHead_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ロボットヘッド",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6aa0c91d7e4f42d994960b83d6afc409",
+				"Address" : "CoffeeCup_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "コーヒーカップ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b2c1f63f4fd3a63505f26955e88d935d",
+				"Address" : "AlienHelmet_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "宇宙人のヘルメット",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
@@ -164,16 +913,59 @@
 		{
 			"Main" : {
 				"Hash" : "fb8ab111bad13e61dbbedb3a572c764d",
-				"Address" : "Q23LlzIjc_Main.png",
+				"Address" : "Mouse.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "カーソルを合わせる",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b44cd8959564ccdba7574068252ef204",
+				"Address" : "Select_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "daf47017a354481f1b725d86ea52dc26",
+				"Address" : "Select_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "マウスで選択",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+,
+		{
+			"Main" : {
+				"Hash" : "eb1dec57cd8abf8bf5095fa954f1b3d9",
+				"Address" : "Sunglasses_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "サングラス",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
@@ -181,23 +973,341 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b44cd8959564ccdba7574068252ef204",
-				"Address" : "yyFp70JF_Main.png",
+				"Hash" : "7e4d54306220d937c7b7b3290cf246df",
+				"Address" : "HeartGlasses_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Climb" : {
-				"Hash" : "daf47017a354481f1b725d86ea52dc26",
-				"Address" : "yyFp70JF_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"Adaptive" : False,
+			"Adaptive" : True,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
-			"Name" : "マウスで選択",
+			"Name" : "ハートのメガネ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "07cf8aed1b6f7317087939180c8a0f66",
+				"Address" : "StarGlasses_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "星のメガネ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b8e9c6c06c24bc039270f3071ae3c85b",
+				"Address" : "FlameSunglasses_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "炎のサングラス",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "80397961ca9f7df33ac19ad43b78011d",
+				"Address" : "SwirlGlasses_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ぐるぐるメガネ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f3868c7f2573c1614dd0a70ade38f8e9",
+				"Address" : "Glasses3D_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "3Dメガネ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "18967d7c952f4adcfd14773fa8caecf9",
+				"Address" : "Goggles_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ゴーグル",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "107dcd20072fa8a617d567962c343f09",
+				"Address" : "VRHeadset_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "VRヘッドセット",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2a854c968f5a82a94345f6e1af8f9b72",
+				"Address" : "MasqueradeMask_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "仮面舞踏会のマスク",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ae35ea9ef8e394672965cb0852d16dc9",
+				"Address" : "AngryEyes_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "怒りの目",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "86d88164e6b2594333c9b98acad305fa",
+				"Address" : "HappyEyes_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ニコニコの目",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e256d61d5818cb01cf9e30b69e49af55",
+				"Address" : "XEyes_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "バツの目",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3583611862e978cdd3d7633a176167dd",
+				"Address" : "TearEyes_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "涙目",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "17a942c09b05924401558d16e0878217",
+				"Address" : "CatEyes_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "猫の目",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1a238ab912c86a191da8b43c27ee0c08",
+				"Address" : "Monocle_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "モノクル",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4e2b1c285950bf53aabb0c7c457e90d1",
+				"Address" : "PixelSunglasses_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ピクセルサングラス",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "78f6438063c1f582228da4adbf5be316",
+				"Address" : "NightVision_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "暗視ゴーグル",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7461626d268c103dee48b51bb8821755",
+				"Address" : "BlackBlindfold_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "黒い目隠し",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cb665dd90ff28db19c5574c1b377a59e",
+				"Address" : "MustacheGlasses_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ひげメガネ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "273c2667b7a7a0d468afe6fbbd4136c9",
+				"Address" : "AlienEyes_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "宇宙人の目",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
@@ -207,72 +1317,47 @@
 	"Nameplates" : [
 		{
 			"Plate" : {
-				"Hash" : "b7565d78d11745a64b14c27ee1515e7e",
-				"Address" : "3ZtqmjxMb_Plate.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"AdaptiveInFront" : True,
-			"Name" : "現行犯です",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Plate" : {
 				"Hash" : "7c807a17a48ba3617ae899f6cff22973",
-				"Address" : "TbvrpS1hc_Plate.png",
+				"Address" : "Jester_Plate.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"AdaptiveInFront" : True,
 			"Name" : "吊ってもいいよ",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Plate" : {
-				"Hash" : "d65e0d090d2568c9677a906dbecbc387",
-				"Address" : "ubONi9Z_Plate.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"AdaptiveInFront" : True,
-			"Name" : "焦ってる\?",
-			"Author" : "タバスコ",
-			"Package" : "Tabasco Cosmetics",
-			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
 			"Plate" : {
 				"Hash" : "dd27afbb08ae10d320461b6ef6cb44f1",
-				"Address" : "0LWU1405b_Plate.png",
+				"Address" : "Raidar_line_Plate.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"AdaptiveInFront" : True,
 			"Name" : "レイダーキル",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
 			"Adaptive" : {
 				"Hash" : "85df8024893803fa8f9352f9ee761b4d",
-				"Address" : "hA5AkBHK_Adaptive.png",
+				"Address" : "Player_Color_Adaptive.png",
 				"ExIsFront" : False,
-				"MaskAddress" : null
+				"AnimSync" : 0
 			},
 			"AdaptiveInFront" : True,
 			"Name" : "Player_Color_Nameplate",
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
