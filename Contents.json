@@ -1,0 +1,257 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
+				"Address" : "Sleepy_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
+				"Address" : "Sleepy_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ねむい\.\.\.",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "92a61616082896741277df435eb80840",
+				"Address" : "Noparking_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "止まるな！",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6d9db1568b63416e0a8c3943a219cd61",
+				"Address" : "Umbrella_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ビニール傘",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fe37f168db5fde7ba9e6132a89388229",
+				"Address" : "40km_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "時速40km/h",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fad6dd4718ab8bad4bd3ecefc2b214e2",
+				"Address" : "Go_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "一方通行",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a0715c4f268ca1b1d4619038e3500406",
+				"Address" : "Alien_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "宇宙人",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5f2b294f49b1a2f326ab1782f4cf3df3",
+				"Address" : "vW3Imf_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "5f2b294f49b1a2f326ab1782f4cf3df3",
+				"Address" : "vW3Imf_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "唐辛子",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "46600f03dc24b2ae5bc864bf76fd0ab1",
+				"Address" : "JEBA7c_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "46600f03dc24b2ae5bc864bf76fd0ab1",
+				"Address" : "JEBA7c_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ぱっ！",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "パン",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "7c807a17a48ba3617ae899f6cff22973",
+				"Address" : "Jester_Plate.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "吊ってもいいよ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "dd27afbb08ae10d320461b6ef6cb44f1",
+				"Address" : "Raidar_line_Plate.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "レイダーキル",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : {
+				"Hash" : "85df8024893803fa8f9352f9ee761b4d",
+				"Address" : "Player_Color_Adaptive.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "Player_Color_Nameplate",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "Tabasco Cosmetics",
+			"Format" : "Tabasco Cosmetics",
+			"Priority" : 4,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
+}
